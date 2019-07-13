@@ -1,8 +1,7 @@
 [//]: # (Image References)
 
-[image1]: Tennis.png "Environment Description"
-[image2]: Demo.gif "Demo"
-
+[image1]: https://github.com/GCCFeli/drl_tennis/blob/master/Tennis.png?raw=true "Environment Description"
+[image2]: https://github.com/GCCFeli/drl_tennis/blob/master/Demo.gif?raw=true  "Demo"
 
 # Project 3: Tennis
 
