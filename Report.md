@@ -56,7 +56,7 @@ Training can be done within 1000 episodes.
 
 ## 4. Result
 
-Closing to the end of training, the agents are observed to achieve about 2.6 score for most episodes.
+Closing to the end of training, the agents are observed to achieve score of ~2.6 for most episodes.
 Watch the video below to see the performance of a trained agent.
 
 ![Result][image2]
